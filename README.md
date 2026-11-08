@@ -10,7 +10,11 @@ The whole game is one file, `index.html`, which runs in any modern web browser o
 
 https://davedashboard.github.io/zombie-run/
 
-Open that link on the tablet. In Safari use **Share → Add to Home Screen**, or in Chrome use **⋮ → Add to Home screen**, and it gets its own icon like an app.
+**Install it like an app:** open that link, then:
+- **iPhone / iPad (Safari):** tap **Share** (the square with an arrow) → **Add to Home Screen** → **Add**.
+- **Android (Chrome):** tap **⋮** → **Install app** (or **Add to Home screen**). Chrome may also pop up an *Install* banner.
+
+It then gets the Zombie Run icon, opens full screen without the browser bars, and works offline after the first launch.
 
 **Offline:** download `index.html` and open it in the tablet's browser. It works without internet. Only the fancy fonts need a connection; without one it falls back to the normal font.
 
